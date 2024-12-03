@@ -18,7 +18,7 @@ A modern, responsive Todo application built with Flutter and Riverpod state mana
 
 
 
-https://github.com/user-attachments/assets/75a7c7f3-6770-4214-9a34-3fc988b13286
+https://github.com/user-attachments/assets/d9a143c7-07e8-4ac0-bbba-f232a9eab12e
 
 
 
