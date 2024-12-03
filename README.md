@@ -1,16 +1,68 @@
-# todo_app_flame
+# Flutter Todo App
 
-A new Flutter project.
+A modern, responsive Todo application built with Flutter and Riverpod state management. Features dark mode support, persistent storage, and intuitive UI.
+
+![App Screenshot](screenshots/app_preview.png)
+
+## Features
+
+- ✨ Create, update, and delete todos
+- 📱 Responsive design
+- 🌙 Dark mode support
+- 💾 Persistent storage using Hive
+- 🎯 State management with Riverpod
+- 📝 Optional descriptions for todos
+- ⚡ Bottom sheet actions
+
+## Demo
+
+[Add your demo video here]
+
+## Screenshots
+
+<p float="left">
+  <img src="screenshots/light_mode.png" width="200" />
+  <img src="screenshots/dark_mode.png" width="200" />
+  <img src="screenshots/add_todo.png" width="200" />
+  <img src="screenshots/actions.png" width="200" />
+</p>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (>=3.0.0)
+- Dart SDK (>=3.0.0)
+- Android Studio / VS Code
+- Git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+```bash
+git clone https://github.com/afloatwont/Todo-App.git
+```
+
+### Running the App
+
+1. Open the project in your preferred IDE (Android Studio / VS Code).
+2. Get the dependencies:
+```bash
+flutter pub get
+```
+3. Generate the build files:
+```bash
+dart run build_runner build
+```
+4. Run the app:
+```bash
+flutter run
+```
+
+### Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
