@@ -2,7 +2,7 @@
 
 A modern, responsive Todo application built with Flutter and Riverpod state management. Features dark mode support, persistent storage, and intuitive UI.
 
-![App Screenshot](screenshots/app_preview.png)
+<img src="https://github.com/user-attachments/assets/cf405161-05fa-4983-beb9-48554fea9b05" width="200" />
 
 ## Features
 
@@ -16,15 +16,20 @@ A modern, responsive Todo application built with Flutter and Riverpod state mana
 
 ## Demo
 
-[Add your demo video here]
+
+
+https://github.com/user-attachments/assets/082f751f-27aa-4fc3-bcde-9517d8daf210
+
+
 
 ## Screenshots
 
 <p float="left">
-  <img src="screenshots/light_mode.png" width="200" />
-  <img src="screenshots/dark_mode.png" width="200" />
-  <img src="screenshots/add_todo.png" width="200" />
-  <img src="screenshots/actions.png" width="200" />
+  <img src="https://github.com/user-attachments/assets/cf405161-05fa-4983-beb9-48554fea9b05" width="200" />
+  <img src="https://github.com/user-attachments/assets/31e83085-f60f-4d8a-a9b2-92e57d5146d4" width="200" />
+  <img src="https://github.com/user-attachments/assets/8059a3f5-e79c-428f-9cd4-607542d49103" width="200" />
+  <img src="https://github.com/user-attachments/assets/73320b01-48fb-4b61-9088-b4013efc6107" width="200" />
+  <img src="https://github.com/user-attachments/assets/358e8da0-666e-4bbb-9120-f9d834cc1f88" width="200" />
 </p>
 
 ## Getting Started
